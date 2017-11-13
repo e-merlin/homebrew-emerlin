@@ -1,2 +1,2 @@
 # homebrew-emerlin
-Homebrew for emerlin specific code
+Homebrew tap for emerlin specific code
